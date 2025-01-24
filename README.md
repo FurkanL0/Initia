@@ -10,7 +10,7 @@ sudo apt update -y && sudo apt upgrade -y
 ## 2. Install Packages:
 
 ```bash
-sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 texlive-binaries -y
+sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
 ```
 
 ## Install GO :
@@ -111,6 +111,28 @@ Space : Select - Enter : Sumbit
 - Yes - Enter.
 
 ![image](https://github.com/user-attachments/assets/ec222451-0be3-4d46-a5fa-62927b81f08a)
+
+
+#### Snapshot : 
+
+- I chose state sync. you can install snapshot if you want.
+
+![image](https://github.com/user-attachments/assets/57c664d1-d8a7-439d-8835-350d7946a9f6)
+
+- Tab for Polkachu State SYNC :
+
+![image](https://github.com/user-attachments/assets/be70335a-8ad6-4ba8-9b50-861d7786ec6a)
+
+#### Additional Peers : 
+
+- Tab for Polkachu Peers. Enter.
+
+
+![image](https://github.com/user-attachments/assets/7f789402-9e2f-4cb4-95de-97ebc4107bbf)
+
+## Succsess : 
+
+![image](https://github.com/user-attachments/assets/e3fbcca1-89ad-47f6-9b9b-c026949a0167)
 
 
 
