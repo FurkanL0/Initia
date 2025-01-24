@@ -57,3 +57,12 @@ weave gas-station setup
 
 INIT Test Faucet: [Initia Faucet](https://faucet.testnet.initia.xyz/)
 TIA Test Faucet : [Celestia Faucet](https://docs.celestia.org/how-to-guides/mocha-testnet#mocha-testnet-faucet)
+
+
+- Claim Faucet And Check Youer Wallets : 
+```bash
+weave gas-station show
+```
+![image](https://github.com/user-attachments/assets/bb355332-5245-4ff3-9055-fd74294935ad)
+
+
