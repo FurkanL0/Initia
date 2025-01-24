@@ -82,15 +82,15 @@ weave init
 
 ![image](https://github.com/user-attachments/assets/a3885ac7-0453-4245-a607-e4ea95dc67d4)
 
-#### Chouse Your Options 
+#### GRPC ve Rest Seçimi
 
-Space : Select - Enter : Sumbit
+Space : Seçme - Enter : Onaylama - ben 2'sinide seçtim - klavye yön tuşları ile aşağı yukarı sonra enter. 
 
 ![image](https://github.com/user-attachments/assets/5018fa6c-79c1-48a7-840f-040b788f57b4)
 
 #### Seeds : 
 
-- If you want Specify seed paste your seed - i want initia offical seed press TAB and enter.
+- Özel istediğiniz seed varsa yapıştırabilirsiniz - ben direkt olan peersler için tab'a basıp enterledim.
 
 
 ![image](https://github.com/user-attachments/assets/5e4d6560-a21a-479b-b311-d6417b0395c9)
