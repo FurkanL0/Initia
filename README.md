@@ -1,7 +1,6 @@
 # Initia Weave CLI 
 
 ![image](https://github.com/user-attachments/assets/a077805e-88ef-42c6-a3e5-d08776586548)
-apt install texlive-binaries
 
 #### Run the following command to update and upgrade system packages:
 
