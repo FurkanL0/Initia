@@ -27,3 +27,12 @@ echo "export PATH=$PATH:/usr/local/go/bin:~/go/bin" >> ~/.bash_profile
 source $HOME/.bash_profile
 [ ! -d ~/go/bin ] && mkdir -p ~/go/bin
 ```
+
+## Install CLI : 
+
+```bash
+git clone https://github.com/initia-labs/weave.git
+cd weave
+git checkout tags/v0.1.1
+make install
+```
