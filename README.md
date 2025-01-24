@@ -36,3 +36,26 @@ cd weave
 git checkout tags/v0.1.1
 make install
 ```
+
+## Create Gas Station Wallet : 
+```bash
+weave gas-station setup
+```
+![image](https://github.com/user-attachments/assets/86581ff0-50b3-4807-9332-dff29e96d50d)
+
+- Save Your Mnemonic and Write Contine - Enter.
+
+![image](https://github.com/user-attachments/assets/b23d1826-ea74-4c7a-b8ca-158549817536)
+
+
+## Example : 
+
+![image](https://github.com/user-attachments/assets/c0f35189-5ce4-45a1-992b-470ede9f7388)
+
+
+## Faucet : 
+
+INIT Test Faucet: [Initia Faucet](https://faucet.testnet.initia.xyz/)
+TIA Test Faucet : [Celestia Faucet](https://docs.celestia.org/how-to-guides/mocha-testnet#mocha-testnet-faucet)
+
+Generate new 
