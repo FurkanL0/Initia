@@ -134,7 +134,18 @@ Space : Select - Enter : Sumbit
 
 ![image](https://github.com/user-attachments/assets/e3fbcca1-89ad-47f6-9b9b-c026949a0167)
 
+## Start : 
 
+- Screen : 
+
+```bash
+screen -S initia
+```
+- Start : 
+
+```bash
+weave initia start
+```
 
 
 
