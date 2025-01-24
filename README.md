@@ -66,3 +66,53 @@ weave gas-station show
 ![image](https://github.com/user-attachments/assets/bb355332-5245-4ff3-9055-fd74294935ad)
 
 
+## Start : 
+```bash
+weave init
+```
+![image](https://github.com/user-attachments/assets/559f9e01-e2a4-4f72-a477-86de3b97d67c)
+
+## Run L1 Node : 
+
+![image](https://github.com/user-attachments/assets/9ac4f784-b677-4451-a966-d137fa353320)
+
+- Enter
+
+#### Write Your Moniker : 
+
+![image](https://github.com/user-attachments/assets/a3885ac7-0453-4245-a607-e4ea95dc67d4)
+
+#### Chouse Your Options 
+
+Space : Select - Enter : Sumbit
+
+![image](https://github.com/user-attachments/assets/5018fa6c-79c1-48a7-840f-040b788f57b4)
+
+#### Seeds : 
+
+- If you want Specify seed paste your seed - i want initia offical seed press TAB and enter.
+
+
+![image](https://github.com/user-attachments/assets/5e4d6560-a21a-479b-b311-d6417b0395c9)
+
+
+- Tab for Polkachu and enter.
+
+![image](https://github.com/user-attachments/assets/683b6891-0734-4880-ab58-5015f5f51fe0)
+
+#### Pruning  : 
+
+- Default.
+
+![image](https://github.com/user-attachments/assets/c7b15127-72d1-4577-a232-7039a1a4a1b6)
+
+#### Automatic Upgrade : 
+
+- Yes - Enter.
+
+![image](https://github.com/user-attachments/assets/ec222451-0be3-4d46-a5fa-62927b81f08a)
+
+
+
+
+
