@@ -48,7 +48,7 @@ weave gas-station setup
 ![image](https://github.com/user-attachments/assets/b23d1826-ea74-4c7a-b8ca-158549817536)
 
 
-## Example : 
+## Misal Faucet Gelmiş Hali : 
 
 ![image](https://github.com/user-attachments/assets/c0f35189-5ce4-45a1-992b-470ede9f7388)
 
